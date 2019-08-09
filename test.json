@@ -53,7 +53,184 @@
             },
             {
               "size": 15,
+              "name": "WAN Management"{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+		  	{
+              "size": 10,
+              "name": "Mobile, Voice & Data"
+            },
+		    {
+              "size": 10,
               "name": "WAN Management"
+            },
+		    {
+              "size": 10,
+              "name": "LAN Management"
+            },
+		    {
+              "size": 10,
+              "name": "Application Management"
+            },
+            {
+              "size": 10,
+              "name": "Platforms & Enviroments"
+            },
+            {
+              "size": 15,
+              "name": "Device Management"
+            }
+          ],
+          "name": "Digital Workspace"
+        },
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Integration Services"
+            },
+            {
+              "size": 15,
+              "name": "Application hosting"
+            }
+          ],
+          "name": "Business Systems"
+        },
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Tech Advisory & Exploration"
+            },
+            {
+              "size": 15,
+              "name": "Business Process improvement"
+            }
+          ],
+          "name": "Innovation & Change"
+        }
+      ],
+      "name": "Access provided to the right people @ the right time"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Device Management"
+            },
+            {
+              "size": 15,
+              "name": "LAN Management"
+            },
+            {
+              "size": 15,
+              "name": "Platforms & Environments"
+            },
+            {
+              "size": 15,
+              "name": "WAN Management"
+            }
+          ],
+          "name": "Digital Workplace"
+        }
+      ],
+      "name": "Time taken to start work (e.g. from power up)"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Platforms & Enviroments"
+            },
+            {
+              "size": 15,
+              "name": "Application Management"
+            },
+            {
+              "size": 15,
+              "name": "Device Management"
+            }
+          ],
+          "name": "Digital Workplace"
+        },
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Application Hosting"
+            }
+          ],
+          "name": "Business Systems"
+        },
+        {
+          "children": [
+            {
+              "size": 10,
+              "name": "Program Delivery"
+            }
+          ],
+          "name": "Innovation & Change"
+        }
+      ],
+      "name": "Currency & availability of appropriate applications (n, not n-1)"
+    },
+    {
+      "children": [
+        {
+          "size": 50,
+          "name": "Business Systems"
+        }
+      ],
+      "name": "Systems available when & where needed"
+    },
+    {
+      "children": [
+        {
+          "size": 50,
+          "name": "Data Ops"
+        },
+        {
+          "size": 50,
+          "name": "Digital Workspace"
+        }
+      ],
+      "name": "Cost to deliver per person ($)"
+    },
+    {
+      "children": [
+        {
+          "size": 50,
+          "name": "KPIs"
+        },
+        {
+          "size": 50,
+          "name": "New Products"
+        },
+        {
+          "size": 50,
+          "name": "Operations"
+        },
+        {
+          "size": 50,
+          "name": "Major Uplifts"
+        },
+        {
+          "size": 50,
+          "name": "Financials"
+        }
+      ],
+      "name": "Quarterly reporting to …."
+    }
+  ],
+  "name": "Value Based SLA"
+}
             }
           ],
           "name": "Digital Workplace"
